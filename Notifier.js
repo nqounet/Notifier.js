@@ -44,7 +44,7 @@ var Notifier = (function() {
             font: "normal 13px 'Lucida Sans Unicode', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif",
             borderRadius: "3px",
             boxShadow: "#999 0 0 12px",
-            width: "300px"
+            width: "312px"
         },
         /* individual notification box hover styles */
         box_styles_hover: {
